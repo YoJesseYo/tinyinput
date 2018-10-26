@@ -1,0 +1,13 @@
+button.key{
+	width: 0.88cm;
+  height: 0.75cm;
+	font-size: 5px;
+	padding: 0px;
+	font-weight: bolder;
+	border-color:black;
+	border-width: 0.7px;
+}
+
+button:hover{
+	background-color: #ddd;
+}
